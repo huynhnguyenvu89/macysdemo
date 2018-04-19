@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="macys_text_small">12sp</dimen>
+    <dimen name="macys_text_small_medium">16sp</dimen>
+    <dimen name="macys_text_medium">20sp</dimen>
+    <dimen name="macys_text_medium_large">24sp</dimen>
+    <dimen name="macys_text_large">24sp</dimen>
+
+</resources>
